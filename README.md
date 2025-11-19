@@ -9,9 +9,13 @@ Open StarUML and start a new project.
 Name the project based on the system (e.g., ATM, Library).
 
 Identify actors and use cases from the system requirements.
+
 Choose and draw diagrams (Use Case, Class, Sequence, etc.).
+
 Add elements using the toolbox and connect them properly.
+
 Label all components clearly and meaningfully.
+
 Save and export diagrams as images or PDF.
 
 # DIAGRAMS:
