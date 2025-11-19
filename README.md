@@ -1,10 +1,13 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
-# AIM:
+# AIM: 
+To create UML diagrams for Student Online Exam Registration System.
 
 # SRS (Procedure):
 Open StarUML and start a new project.
+
 Name the project based on the system (e.g., ATM, Library).
+
 Identify actors and use cases from the system requirements.
 Choose and draw diagrams (Use Case, Class, Sequence, etc.).
 Add elements using the toolbox and connect them properly.
